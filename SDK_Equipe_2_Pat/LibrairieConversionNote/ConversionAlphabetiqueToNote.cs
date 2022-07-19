@@ -6,37 +6,37 @@ namespace LibrairieConversionNote
     {
         public string transformer(string alphabetique)
         {
-            if (alphabetique == "A")
+            if (alphabetique.ToUpperInvariant() == "A")
             {
                 return "LA";
             }
 
-            else if (alphabetique == "B")
+            else if (alphabetique.ToUpperInvariant() == "B")
             {
                 return "SI";
             }
 
-            else if (alphabetique == "C")
+            else if (alphabetique.ToUpperInvariant() == "C")
             {
                 return "DO";
             }
 
-            else if (alphabetique == "D")
+            else if (alphabetique.ToUpperInvariant() == "D")
             {
                 return "RE";
             }
 
-            else if (alphabetique == "E")
+            else if (alphabetique.ToUpperInvariant() == "E")
             {
                 return "MI";
             }
 
-            else if (alphabetique == "F")
+            else if (alphabetique.ToUpperInvariant() == "F")
             {
                 return "FA";
             }
 
-            else if (alphabetique == "G")
+            else if (alphabetique.ToUpperInvariant() == "G")
             {
                 return "SOL";
             }

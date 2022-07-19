@@ -1,0 +1,10 @@
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\LibrairieConversionNote\bin\Debug\netcoreapp3.1\LibrairieConversionNote.deps.json
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\LibrairieConversionNote\bin\Debug\netcoreapp3.1\LibrairieConversionNote.dll
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\LibrairieConversionNote\bin\Debug\netcoreapp3.1\LibrairieConversionNote.pdb
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\LibrairieConversionNote\obj\Debug\netcoreapp3.1\LibrairieConversionNote.csproj.AssemblyReference.cache
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\LibrairieConversionNote\obj\Debug\netcoreapp3.1\LibrairieConversionNote.GeneratedMSBuildEditorConfig.editorconfig
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\LibrairieConversionNote\obj\Debug\netcoreapp3.1\LibrairieConversionNote.AssemblyInfoInputs.cache
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\LibrairieConversionNote\obj\Debug\netcoreapp3.1\LibrairieConversionNote.AssemblyInfo.cs
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\LibrairieConversionNote\obj\Debug\netcoreapp3.1\LibrairieConversionNote.csproj.CoreCompileInputs.cache
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\LibrairieConversionNote\obj\Debug\netcoreapp3.1\LibrairieConversionNote.dll
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\LibrairieConversionNote\obj\Debug\netcoreapp3.1\LibrairieConversionNote.pdb

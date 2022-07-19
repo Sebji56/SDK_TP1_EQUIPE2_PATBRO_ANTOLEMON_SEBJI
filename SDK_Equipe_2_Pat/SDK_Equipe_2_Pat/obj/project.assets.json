@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "LibrairieConversionNote/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LibrairieConversionNote.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibrairieConversionNote.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LibrairieConversionNote/1.0.0": {
+      "type": "project",
+      "path": "../LibrairieConversionNote/LibrairieConversionNote.csproj",
+      "msbuildProject": "../LibrairieConversionNote/LibrairieConversionNote.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "LibrairieConversionNote >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\eleves\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Grasset_semestre_2\\SDK\\SDK_TP1_EQUIPE2_PATBRO_ANTOLEMON_SEBJI\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
+              "projectPath": "E:\\Grasset_semestre_2\\SDK\\SDK_TP1_EQUIPE2_PATBRO_ANTOLEMON_SEBJI\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

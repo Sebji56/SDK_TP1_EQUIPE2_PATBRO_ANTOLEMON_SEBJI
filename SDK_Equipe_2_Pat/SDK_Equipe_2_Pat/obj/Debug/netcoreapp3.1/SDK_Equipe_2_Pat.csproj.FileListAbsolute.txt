@@ -1,0 +1,17 @@
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\obj\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.csproj.AssemblyReference.cache
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\obj\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\obj\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.AssemblyInfoInputs.cache
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\obj\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.AssemblyInfo.cs
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\obj\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.csproj.CoreCompileInputs.cache
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\bin\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.exe
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\bin\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.deps.json
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\bin\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.runtimeconfig.json
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\bin\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.runtimeconfig.dev.json
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\bin\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.dll
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\bin\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.pdb
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\bin\Debug\netcoreapp3.1\LibrairieConversionNote.dll
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\bin\Debug\netcoreapp3.1\LibrairieConversionNote.pdb
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\obj\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.csproj.CopyComplete
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\obj\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.dll
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\obj\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.pdb
+E:\Grasset_semestre_2\SDK\Laboratoires\SDK_Equipe_2_Pat\SDK_Equipe_2_Pat\obj\Debug\netcoreapp3.1\SDK_Equipe_2_Pat.genruntimeconfig.cache

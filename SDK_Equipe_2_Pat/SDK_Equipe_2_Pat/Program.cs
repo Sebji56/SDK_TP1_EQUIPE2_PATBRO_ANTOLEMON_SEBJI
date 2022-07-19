@@ -1,5 +1,5 @@
 ﻿using System;
-using ConversionAlphabetiqueToNote;
+using LibrairieConversionNote;
 
 namespace SDK_Equipe_2_Pat
 {
@@ -7,9 +7,27 @@ namespace SDK_Equipe_2_Pat
     {
         static void Main(string[] args)
         {
-            transformer();
+            ConversionAlphabetiqueToNote maison = new ConversionAlphabetiqueToNote();
+            
 
+            
+                Console.Write("Type de conversion à faire : ");
+                var input = Console.ReadLine();
 
+                //Si l'utilisateur tape note
+                if (input?.ToUpperInvariant() == "NOTE")
+                {
+                    //On demande en boucle la conversion 
+                    while (true)
+                    {
+                        Console.Write("Conversion à faire : ");
+                        var note = Console.ReadLine();
+                        string noteRetour = maison.transformer(note);//APPEL DE VOTRE LIB
+                        Console.Write(noteRetour);
+                        Console.WriteLine();
+                    }
+                }
+            
         }
     
     }
