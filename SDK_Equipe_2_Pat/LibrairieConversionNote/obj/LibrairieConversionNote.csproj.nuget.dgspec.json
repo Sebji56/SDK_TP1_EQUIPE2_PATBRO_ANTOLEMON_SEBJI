@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {}
+    "E:\\Grasset_semestre_2\\SDK\\SDK_TP1_EQUIPE2_PATBRO_ANTOLEMON_SEBJI\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {}
   },
   "projects": {
-    "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
+    "E:\\Grasset_semestre_2\\SDK\\SDK_TP1_EQUIPE2_PATBRO_ANTOLEMON_SEBJI\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+        "projectUniqueName": "E:\\Grasset_semestre_2\\SDK\\SDK_TP1_EQUIPE2_PATBRO_ANTOLEMON_SEBJI\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
         "projectName": "LibrairieConversionNote",
-        "projectPath": "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+        "projectPath": "E:\\Grasset_semestre_2\\SDK\\SDK_TP1_EQUIPE2_PATBRO_ANTOLEMON_SEBJI\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
         "packagesPath": "C:\\Users\\eleves\\.nuget\\packages\\",
-        "outputPath": "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\obj\\",
+        "outputPath": "E:\\Grasset_semestre_2\\SDK\\SDK_TP1_EQUIPE2_PATBRO_ANTOLEMON_SEBJI\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eleves\\AppData\\Roaming\\NuGet\\NuGet.Config",
