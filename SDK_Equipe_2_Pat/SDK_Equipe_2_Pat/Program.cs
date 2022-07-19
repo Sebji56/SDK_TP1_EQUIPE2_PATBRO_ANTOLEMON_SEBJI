@@ -1,4 +1,5 @@
 ﻿using System;
+using ConversionAlphabetiqueToNote;
 
 namespace SDK_Equipe_2_Pat
 {
@@ -6,7 +7,10 @@ namespace SDK_Equipe_2_Pat
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            transformer();
+
+
         }
+    
     }
 }

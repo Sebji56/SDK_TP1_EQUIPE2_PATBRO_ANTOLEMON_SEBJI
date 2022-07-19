@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\SDK_Equipe_2_Pat\\SDK_Equipe_2_Pat.csproj",
-      "projectName": "SDK_Equipe_2_Pat",
-      "projectPath": "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\SDK_Equipe_2_Pat\\SDK_Equipe_2_Pat.csproj",
+      "projectUniqueName": "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+      "projectName": "LibrairieConversionNote",
+      "projectPath": "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
       "packagesPath": "C:\\Users\\eleves\\.nuget\\packages\\",
-      "outputPath": "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\SDK_Equipe_2_Pat\\obj\\",
+      "outputPath": "E:\\Grasset_semestre_2\\SDK\\Laboratoires\\SDK_Equipe_2_Pat\\LibrairieConversionNote\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eleves\\AppData\\Roaming\\NuGet\\NuGet.Config",
